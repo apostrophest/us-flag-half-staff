@@ -1,5 +1,7 @@
 # us-flag-half-staff
-Data for time periods when the United States flag was at half staff
+Data for time periods when the United States flag was at half staff.
+
+[Read more on Wikipedia](https://en.wikipedia.org/wiki/Half-mast#United_States)
 
 ## Purpose
 - Provide structured data for the time periods when United States government entities are ordered to fly the United States flag at half staff.
